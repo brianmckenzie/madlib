@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Changed words return expected text 1`] = `
+<div
+  className="Madlib-text"
+>
+  <p>
+    It was a 
+    hot
+     and 
+    foul-smelling
+     night. Suddenly, a 
+    Kanye West Song
+     rang out! 
+    <br />
+    <br />
+    A 
+    tanning lotion bottle lid
+     slammed. 
+    Stormy Daniels
+     screamed.
+    <br />
+    <br />
+    Suddenly, 
+    an orange walrus
+     appeared on the horizon!
+  </p>
+</div>
+`;
+
+exports[`Changed words return expected text 2`] = `"received is not a function"`;
+
+exports[`Default words return expected text 1`] = `
+<div
+  className="Madlib-text"
+>
+  <p>
+    It was a 
+    dark
+     and 
+    stormy
+     night. Suddenly, a 
+    shot
+     rang out! 
+    <br />
+    <br />
+    A 
+    door
+     slammed. 
+    The maid
+     screamed.
+    <br />
+    <br />
+    Suddenly, 
+    a pirate ship
+     appeared on the horizon!
+  </p>
+</div>
+`;
+
+exports[`Default words return expected text 2`] = `"received is not a function"`;

@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rendered app matches snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <p>
+      Brian's Madlib Demo
+    </p>
+    <div
+      className="Form"
+    >
+      <form>
+        <label>
+          1: 
+          <input
+            id="word1"
+            name="word1"
+            onChange={[Function]}
+            type="text"
+            value="dark"
+          />
+        </label>
+          
+        <label>
+          2: 
+          <input
+            id="word2"
+            name="word2"
+            onChange={[Function]}
+            type="text"
+            value="stormy"
+          />
+        </label>
+          
+        <label>
+          3: 
+          <input
+            id="word3"
+            name="word3"
+            onChange={[Function]}
+            type="text"
+            value="shot"
+          />
+        </label>
+          
+        <label>
+          4: 
+          <input
+            id="word4"
+            name="word4"
+            onChange={[Function]}
+            type="text"
+            value="door"
+          />
+        </label>
+          
+        <label>
+          5: 
+          <input
+            id="word5"
+            name="word5"
+            onChange={[Function]}
+            type="text"
+            value="The maid"
+          />
+        </label>
+          
+        <label>
+          6: 
+          <input
+            id="word6"
+            name="word6"
+            onChange={[Function]}
+            type="text"
+            value="a pirate ship"
+          />
+        </label>
+          
+      </form>
+    </div>
+    <br />
+    <div
+      className="Madlib-text"
+    >
+      <p>
+        It was a 
+        dark
+         and 
+        stormy
+         night. Suddenly, a 
+        shot
+         rang out! 
+        <br />
+        <br />
+        A 
+        door
+         slammed. 
+        The maid
+         screamed.
+        <br />
+        <br />
+        Suddenly, 
+        a pirate ship
+         appeared on the horizon!
+      </p>
+    </div>
+  </header>
+</div>
+`;
