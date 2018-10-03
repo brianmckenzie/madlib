@@ -1,6 +1,6 @@
 Here is my React demo. It's a simple madlib-style app, and should be pretty self-explanatory. The default text is from Snoopy's novel - I was crunched for time and couldn't think of anything better. I hope you have fun with it!
 
-I used Jest for the tests. I'm pretty new to Jest, but it comes built in with create-react-app, so I 
+I used Jest for the tests. I'm pretty new to Jest, but it comes built in with create-react-app, so I decided to go with it.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
